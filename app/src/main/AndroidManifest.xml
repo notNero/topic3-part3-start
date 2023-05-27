@@ -11,6 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Reddit"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
         tools:ignore="GoogleAppIndexingWarning">
 
         <!-- Main Activity -->
